@@ -1,0 +1,29 @@
+body {
+  border-color: #f00;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.5em;
+  line-height: 1.55em;
+  color: #c2c2c2;
+}
+.first {
+  background-image: url("../images/header.jpg");
+  background-size: cover;
+  border-color: #f00;
+}
+.headerbox {
+  width: 25%;
+  height: 50%;
+  font-size: 2em;
+  line-height: 2em;
+  text-transform: uppercase;
+  font-weight: 100;
+  position: relative;
+  left: 50%;
+  top: 25%;
+  color: #000;
+  font-weight: 700;
+}
+.subhead {
+  font-size: 0.55em;
+  color: #f00;
+}
